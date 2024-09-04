@@ -1,0 +1,7 @@
+
+https://platform.openai.com/api-keys
+
+OPENAPI_KEY=key
+
+GABRIEL DEGAMO
+gab.degamo121893@gmail.com
